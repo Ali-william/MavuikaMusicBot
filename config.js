@@ -15,15 +15,6 @@ module.exports = {
   errorLog: "", 
   nodes: [
     {
-        "identifier": "Muzykant v4 SSL",
-        "host": "lavalink_v4.muzykant.xyz",
-        "port": 443,
-        "password": "https://discord.gg/v6sdrD9kPh",
-        "secure": true,
-        "restVersion": "v4",
-        "authorId": "719878365640916993"
-    },
-    {
         "identifier": "Muzykant v4",
         "host": "lavalink_v4.muzykant.xyz",
         "port": 80,
