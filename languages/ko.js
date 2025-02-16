@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR이(가) 개발 | Prime Music v1.2",
+    footer: "Ali No-Baka이(가) 개발 | Mavuika Music v2",
     ping: {
       description: "봇 지연 시간 확인",
       response: "지연 시간 측정 중...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 봇 응답 시간: **{latency}ms**",
         websocketPing: "- WebSocket 핑: **{ping}ms**",
         uptime: "- 가동 시간: **{uptime}**",
-        footer: "SSRR이(가) 개발 | Prime Music v1.2"
+        footer: "Ali No-Baka이(가) 개발 | Mavuika Music v2"
       }
     },
     addsong: {
@@ -255,7 +255,7 @@ module.exports = {
     support: {
     embed: {
         authorName: "지원 서버",
-        description: "➡️ **지원과 업데이트를 위해 Discord 서버에 참여하세요:**\n- Discord - {supportServerLink}\n\n➡️ **팔로우하기:**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+        description: "➡️ **지원과 업데이트를 위해 Discord 서버에 참여하세요:**\n- Discord - {supportServerLink}\n\n➡️ **팔로우하기:**\n- YouTube - {youtubeLink}",
         error: "오류",
         errorDescription: "- 요청을 처리하는 중 오류가 발생했습니다."
     }

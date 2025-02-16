@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR により開発 | Prime Music v1.2",
+    footer: "Ali No-Baka により開発 | Mavuika Music v2",
     ping: {
       description: "ボットの応答時間を確認",
       response: "応答時間を計測中...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- ボット応答時間：**{latency}ミリ秒**",
         websocketPing: "- WebSocket応答時間：**{ping}ミリ秒**",
         uptime: "- 稼働時間：**{uptime}**",
-        footer: "SSRR により開発 | Prime Music v1.2"
+        footer: "Ali No-Baka により開発 | Mavuika Music v2"
       }
     },
     addsong: {
@@ -255,7 +255,7 @@ module.exports = {
     support: {
       embed: {
           authorName: "サポートサーバー",
-          description: "➡️ **サポートと更新情報のためにDiscordサーバーに参加：**\n- Discord - {supportServerLink}\n\n➡️ **フォローする：**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+          description: "➡️ **サポートと更新情報のためにDiscordサーバーに参加：**\n- Discord - {supportServerLink}\n\n➡️ **フォローする：**\n- YouTube - {youtubeLink}",
           error: "エラー",
           errorDescription: "- リクエストの処理中にエラーが発生しました。"
       }

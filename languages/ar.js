@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR تم التطوير بواسطة | Prime Music v1.2",
+    footer: "Ali No-Baka تم التطوير بواسطة | Mavuika Music v2",
     ping: {
       description: "فحص تأخير البوت",
       response: "جاري قياس التأخير...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- وقت استجابة البوت: **{latency}ms**",
         websocketPing: "- تأخير WebSocket: **{ping}ms**",
         uptime: "- مدة التشغيل: **{uptime}**",
-        footer: "SSRR تم التطوير بواسطة | Prime Music v1.2"
+        footer: "Ali No-Baka تم التطوير بواسطة | Mavuika Music v2"
       }
     },
     addsong: {
@@ -255,7 +255,7 @@ module.exports = {
     support: {
       embed: {
           authorName: "سيرفر الدعم",
-          description: "➡️ **انضم إلى سيرفر Discord للدعم والتحديثات:**\n- Discord - {supportServerLink}\n\n➡️ **تابعنا على:**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+          description: "➡️ **انضم إلى سيرفر Discord للدعم والتحديثات:**\n- Discord - {supportServerLink}\n\n➡️ **تابعنا على:**\n- YouTube - {youtubeLink}",
           error: "خطأ",
           errorDescription: "- حدث خطأ أثناء معالجة طلبك."
       }

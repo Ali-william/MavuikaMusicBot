@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "由 SSRR 开发 | Prime Music v1.2",
+    footer: "由 Ali No-Baka 开发 | Mavuika Music v2",
     ping: {
       description: "检查机器人延迟",
       response: "正在测试延迟...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 机器人响应时间：**{latency}毫秒**",
         websocketPing: "- WebSocket延迟：**{ping}毫秒**",
         uptime: "- 运行时间：**{uptime}**",
-        footer: "由 SSRR 开发 | Prime Music v1.2"
+        footer: "由 Ali No-Baka 开发 | Mavuika Music v2"
       }
     },
     addsong: {
@@ -255,7 +255,7 @@ module.exports = {
     support: {
       embed: {
           authorName: "支持服务器",
-          description: "➡️ **加入我们的 Discord 服务器获取支持和更新：**\n- Discord - {supportServerLink}\n\n➡️ **关注我们：**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+          description: "➡️ **加入我们的 Discord 服务器获取支持和更新：**\n- Discord - {supportServerLink}\n\n➡️ **关注我们：**\n- YouTube - {youtubeLink}",
           error: "错误",
           errorDescription: "- 处理您的请求时发生错误。"
       }

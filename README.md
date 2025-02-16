@@ -1,5 +1,5 @@
-# PrimeMusic-Lavalink
-LAVALINK BOT MADE BY SHIVA.
+# MauikaMusicBot-Lavalink
+LAVALINK BOT MADE BY ALI TEBBICHE.
 
 Fork the Repositry and add your bot token. Must turn on intents and run the code.
 Use /play to start playing the songs.
@@ -28,3 +28,4 @@ Russian (ru),
 Portuguese (pt),
 Arabic (ar),
 Vietnamese (vi)
+# MavuikaMusicBot

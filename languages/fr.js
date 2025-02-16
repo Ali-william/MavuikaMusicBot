@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Développé par SSRR | Prime Music v1.2",
+    footer: "Développé par Ali No-Baka | Mavuika Music v2",
     ping: {
       description: "Vérifier la latence du bot",
       response: "Mesure en cours...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Temps de réponse du bot : **{latency}ms**",
         websocketPing: "- Ping WebSocket : **{ping}ms**",
         uptime: "- Temps de fonctionnement : **{uptime}**",
-        footer: "Développé par SSRR | Prime Music v1.2"
+        footer: "Développé par Ali No-Baka | Mavuika Music v2"
       }
     },
     addsong: {
@@ -255,7 +255,7 @@ module.exports = {
     support: {
       embed: {
           authorName: "Serveur de Support",
-          description: "➡️ **Rejoignez notre serveur Discord pour le support et les mises à jour :**\n- Discord - {supportServerLink}\n\n➡️ **Suivez-nous sur :**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+          description: "➡️ **Rejoignez notre serveur Discord pour le support et les mises à jour :**\n- Discord - {supportServerLink}\n\n➡️ **Suivez-nous sur :**\n- YouTube - {youtubeLink}",
           error: "Erreur",
           errorDescription: "- Une erreur est survenue lors du traitement de votre demande."
       }
