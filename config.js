@@ -14,12 +14,26 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-       {
-  "identifier": "MYHM.Space",
-  "password": "d.gg/therepublic",
-  "host": "ll3.myhm.space",
+    {
+  "identifier": "AjieDev - Lavalink [SSL]",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
   "port": 443,
   "secure": true
-      }
+},
+    {
+  "identifier": "Public Lavalink v4",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v4.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
+},
+    {
+  "identifier": "Public Lavalink v3",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
+}
   ]
 }
