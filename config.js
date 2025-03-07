@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  language: "fr",
+  language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://Mavuika:gaxkyg-zarhE9-jebtub@cluster0.imlrb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   setupFilePath: './commands/setup.json',
@@ -14,12 +14,12 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-     {
-        "identifier": "Public Lavalink v4 NonSSL",
-        "password": "https://dsc.gg/ajidevserver",
-        "host": "lava-v4.ajieblogs.eu.org",
-        "port": 80,
-        "secure": false
-     }
+  {
+      name: "XX",
+      password: "enteryourcustompass",
+      host: "180.188.226.76",
+      port:  7019,
+      secure: false
+    }
   ]
 }
