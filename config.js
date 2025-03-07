@@ -14,12 +14,12 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-    {
-  "identifier": "Public Lavalink v4 NonSSL",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v4.ajieblogs.eu.org",
-  "port": 80,
-  "secure": false
-}
+       {
+  "identifier": "MYHM.Space",
+  "password": "d.gg/therepublic",
+  "host": "ll3.myhm.space",
+  "port": 443,
+  "secure": true
+      }
   ]
 }
