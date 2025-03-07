@@ -15,25 +15,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
     {
-  "identifier": "AjieDev - Lavalink [SSL]",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v3.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
-},
-    {
-  "identifier": "Public Lavalink v4",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v4.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
-},
-    {
-  "identifier": "Public Lavalink v3",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v3.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
-}
+      name: "XX",
+      password: "enteryourcustompass",
+      host: "180.188.226.76",
+      port:  7019,
+      secure: false
+    }
   ]
 }
