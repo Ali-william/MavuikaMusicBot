@@ -14,12 +14,66 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
+       {
+        "identifier": "Muzykant v4 SSL",
+        "host": "lavalink_v4.muzykant.xyz",
+        "port": 443,
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "719878365640916993"
+    },
     {
-      name: "XX",
-      password: "enteryourcustompass",
-      host: "180.188.226.76",
-      port:  7019,
-      secure: false
-    }
+        "identifier": "Muzykant v4",
+        "host": "lavalink_v4.muzykant.xyz",
+        "port": 80,
+        "password": "https://discord.gg/v6sdrD9kPh",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "719878365640916993"
+    },
+    {
+        "identifier": "INZEWORLD.COM (DE)",
+        "host": "lava.inzeworld.com",
+        "port": 3128,
+        "password": "saher.inzeworld.com",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "454863447344021515"
+    },
+    {
+        "identifier": "ChalresNaig Node",
+        "host": "lavahatry4.techbyte.host",
+        "port": 3000,
+        "password": "NAIGLAVA-dash.techbyte.host",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "573709909594734603"
+    },
+    {
+        "identifier": "Public Lavalink v4",
+        "host": "lava-v4.ajieblogs.eu.org",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "867303900884893727"
+    },
+    {
+        port: 3000,
+        password: "saher.inzeworld.com",
+        host: "lava.inzeworld.com",
+        port: 3128,
+        secure: false
+    },
+    {
+        "identifier": "Public Lavalink v4 NonSSL",
+        "host": "lava-v4.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "867303900884893727"
+    } 
   ]
 }
