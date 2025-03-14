@@ -14,6 +14,16 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
+    [
+    {
+        "identifier": "Public2 Lavalink V2",
+        "host": "utopia.pylex.xyz",
+        "port": 10167,
+        "password": "noise",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "1064033717561081856"
+    },
     {
         "identifier": "Private Hosting",
         "host": "18.209.210.50",
@@ -327,5 +337,6 @@ module.exports = {
         "restVersion": "v4",
         "authorId": "548192290003353631"
     }
+]
 ]
 }
