@@ -12,8 +12,7 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-    
-        {
+     {
             "identifier": "Public2 Lavalink V2",
             "host": "utopia.pylex.xyz",
             "port": 10167,
